@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "lambda": 0.0,
+      "test_accuracy": 0.49,
+      "sparsity_percent": 5.393235757946968
+    },
+    {
+      "lambda": 0.5,
+      "test_accuracy": 0.4937,
+      "sparsity_percent": 14.091150462627411
+    },
+    {
+      "lambda": 2.0,
+      "test_accuracy": 0.4971,
+      "sparsity_percent": 35.41808724403381
+    }
+  ],
+  "best_model": {
+    "lambda": 2.0,
+    "test_accuracy": 0.4971,
+    "sparsity_percent": 35.41808724403381
+  }
+}
